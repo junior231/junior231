@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junior231
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning MERN Stack Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Product Development and Design Implementation
 - 📫 How to reach me: ilocollinsdev231@gmail.com
 
 <!---
