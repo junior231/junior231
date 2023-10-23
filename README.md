@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Collins Ilo</h1>
 <h3 align="left">I am a Full stack developer who is interested in building applications from UI to backend systems.</h3>
 
-- 👨‍💻 Some of my projects are available at [collins-ilo.netlify.app](collins-ilo.netlify.app)
+- 👨‍💻 Some of my projects are available at (https://collins-ilo.netlify.app/)
 
 - 📫 How to reach me **ilocollinsdev231@gmail.com**
 
